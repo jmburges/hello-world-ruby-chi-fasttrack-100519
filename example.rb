@@ -1,0 +1,1 @@
+puts "Flatiron School is cool"
